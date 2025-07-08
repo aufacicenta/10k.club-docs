@@ -13,6 +13,7 @@
 * [Explorers](roles/explorers.md)
   * [Explorer Protocols](roles/explorers/protocols.md)
   * [Opportunity Submission](roles/explorers/opportunity-submission.md)
+  * [Real Estate Opportunity Template](roles/explorers/real-estate-opportunity-template.md)
   * [Monthly Requirements](roles/explorers/monthly-requirements.md)
 * [Auditors](roles/auditors.md)
   * [Auditor Protocols](roles/auditors/protocols.md)
