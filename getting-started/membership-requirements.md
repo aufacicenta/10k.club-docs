@@ -6,9 +6,10 @@ To become a member of 10k.club, candidates must meet specific requirements desig
 
 ### Entry Contribution
 - **Amount**: Exactly $10,000 USD equivalent in cryptocurrency
-- **Accepted Cryptocurrencies**: [To be defined based on technical implementation]
-- **Payment Method**: Direct transfer to designated DAO wallet
+- **Accepted Cryptocurrencies**: USDC (preferred), USDT, ETH, BTC
+- **Payment Method**: Direct transfer to unique member deposit address
 - **Verification**: All transactions must be verifiable on-chain
+- **Deadline**: 7 days from KYC approval to complete deposit
 
 ### Financial Verification
 - Proof of legitimate source of funds

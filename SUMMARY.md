@@ -38,6 +38,7 @@
 
 ## Technical Implementation
 * [Platform Architecture](technical/architecture.md)
+* [Fund Management & DAO](technical/fund-management.md)
 * [Smart Contracts](technical/smart-contracts.md)
 * [Security Protocols](technical/security.md)
 
