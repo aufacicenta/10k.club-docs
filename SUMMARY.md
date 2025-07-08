@@ -36,6 +36,9 @@
 * [Project Implementation](business/project-implementation.md)
 * [Value Creation Strategies](business/value-creation.md)
 
+## Real-World Examples
+* [Real Estate: Costa Rica Food Market](real-world-examples/real-estate-costa-rica.md)
+
 ## Technical Implementation
 * [Platform Architecture](technical/architecture.md)
 * [Fund Management & DAO](technical/fund-management.md)
