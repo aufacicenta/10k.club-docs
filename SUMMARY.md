@@ -5,6 +5,7 @@
 
 ## Getting Started
 * [What is 10k.club?](getting-started/what-is-10k-club.md)
+* [What Makes 10k.club Unique](getting-started/what-makes-10k-club-unique.md)
 * [Membership Requirements](getting-started/membership-requirements.md)
 * [KYC Process](getting-started/kyc-process.md)
 
@@ -18,6 +19,7 @@
   * [Monthly Requirements](roles/explorers/monthly-requirements.md)
 * [Auditors](roles/auditors.md)
   * [Auditor Protocols](roles/auditors/protocols.md)
+  * [Auditor Incentives & Compensation](roles/auditors/auditor-incentives.md)
   * [Fund Verification](roles/auditors/fund-verification.md)
   * [Project Reporting](roles/auditors/project-reporting.md)
 

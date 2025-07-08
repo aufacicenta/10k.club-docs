@@ -130,7 +130,8 @@ Third Auditor (if applicable): [Digital signature]
 - **Base Fee**: $100 USDC per assessment
 - **Complexity Bonus**: Additional $50 for complex opportunities (>$1M or international)
 - **Accuracy Bonus**: $25 if recommendation aligns with final community vote
-- **Timeline Bonus**: $25 for completing review within 3 days
+- **Speed Bonus**: $25 for completing review within 3 days
+- **Additional Incentives**: See [Auditor Incentives & Compensation](../auditors/auditor-incentives.md) for complete reward structure
 
 ## Phase 3: Formal Community Voting
 
