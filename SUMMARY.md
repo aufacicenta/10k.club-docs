@@ -22,6 +22,7 @@
   * [Auditor Incentives & Compensation](roles/auditors/auditor-incentives.md)
   * [Fund Verification](roles/auditors/fund-verification.md)
   * [Project Reporting](roles/auditors/project-reporting.md)
+* [Tech Architects](roles/tech-architects/tech-architect-overview.md)
 
 ## Community & Governance
 * [Discord Server Structure](community/discord-structure.md)

@@ -27,6 +27,13 @@ The 10k.club operates through a structured role-based system where members take 
 - **Responsibilities**: Project management, local negotiations, operational oversight
 - **Compensation**: Salary plus profit-sharing from managed projects
 
+#### Tech Architects
+**Purpose**: Build, maintain, and scale the technical infrastructure
+- **Availability**: 8-12 specialized positions
+- **Requirements**: Advanced technical skills, blockchain/fintech experience
+- **Responsibilities**: Platform development, security, infrastructure management
+- **Compensation**: High monthly salary plus profit-sharing and equity participation
+
 ### Support Roles
 
 #### Community Moderators
@@ -34,12 +41,6 @@ The 10k.club operates through a structured role-based system where members take 
 - **Requirements**: Active community participation, conflict resolution skills
 - **Responsibilities**: Channel moderation, member support, event coordination
 - **Compensation**: Monthly stipend plus recognition rewards
-
-#### Technical Contributors
-**Purpose**: Maintain and improve DAO technical infrastructure
-- **Requirements**: Relevant technical skills (blockchain, web development, etc.)
-- **Responsibilities**: Platform maintenance, feature development, security monitoring
-- **Compensation**: Project-based payments plus equity participation
 
 ## Role Selection Process
 

@@ -34,6 +34,11 @@ Unlike traditional investment platforms where members are passive capital provid
 - Project management from conception to profitability
 - Performance-based compensation tied to actual results
 
+**Tech Architects**: Technical infrastructure specialists
+- 8-12 specialized roles supporting platform operations
+- Blockchain, security, and scalability expertise
+- Responsible for $100M treasury technical security
+
 ### Real-World Asset Focus
 While most crypto projects focus on digital assets, 10k.club deliberately targets **tangible, real-world opportunities**:
 - Physical real estate development and conversion
