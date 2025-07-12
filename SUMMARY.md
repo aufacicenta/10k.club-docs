@@ -50,6 +50,11 @@
 * [Smart Contracts](technical/smart-contracts.md)
 * [Security Protocols](technical/security.md)
 
+## Training & Education
+* [Explorer Education Program](training/explorer-education-program.md)
+* [Episode Transcripts](training/episode-transcripts/)
+  * [Episode 1: Precious Metals Mining](training/episode-transcripts/episode-01-precious-metals-mining.md)
+
 ## Legal & Compliance
 * [Regulatory Framework](legal/regulatory-framework.md)
 * [Anti-Money Laundering](legal/aml-compliance.md)
