@@ -154,10 +154,11 @@ The Explorer Education Program is designed to provide comprehensive training on 
 
 ### Episode Structure (20-30 minutes)
 1. **Opening Banter** (2-3 min): Current events and light conversation
-2. **Sector Deep Dive** (15-20 min): Main educational content with examples
-3. **"Reality Check"** (3-5 min): Common pitfalls and real-world challenges
-4. **"Explorer's Toolkit"** (2-3 min): Practical tips and resources
-5. **Next Episode Teaser** (1 min): Preview of upcoming content
+2. **Sector Deep Dive** (15-20 min): Main educational content with template integration
+3. **"Template Walkthrough"** (3-5 min): Direct mapping to opportunity template fields
+4. **"Reality Check"** (2-3 min): Common template mistakes and pitfalls
+5. **"Explorer's Toolkit"** (2-3 min): Practical tips for template completion
+6. **Next Episode Teaser** (1 min): Preview of upcoming content and template
 
 ### Interactive Elements
 - **Q&A Sessions**: Live Discord sessions with characters

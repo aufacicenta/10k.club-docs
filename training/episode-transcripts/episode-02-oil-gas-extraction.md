@@ -46,9 +46,9 @@ Sam shares his exciting Texas oil opportunity while Alex breaks down the complex
 
 **Sam**: Exactly! Plus, this isn't some speculative wildcat drilling operation. These are proven reserves with existing infrastructure. The risk profile is completely different.
 
-**Alex**: Let's break this down for our listeners. There are basically three types of oil and gas investments: exploration, development, and production. Sam's looking at a production opportunity, which is the lowest risk but also typically the lowest return.
+**Alex**: Let's break this down for our listeners who are filling out opportunity templates. There are basically three types of oil and gas investments, and this goes directly into your "Business Model" field: exploration, development, and production. Sam's looking at a production opportunity, which is the lowest risk but also typically the lowest return. This classification is crucial for your "Investment Thesis" section.
 
-**Sam**: Right, and let me explain the difference. Exploration is looking for new oil fields - high risk, high reward. Development is drilling new wells in known fields - medium risk, medium reward. Production is operating existing wells - lower risk, steady cash flow.
+**Sam**: Right, and let me explain the difference because it affects how you complete your entire template. Exploration is looking for new oil fields - high risk, high reward, and your "Risk Assessment" section will be completely different. Development is drilling new wells in known fields - medium risk, medium reward. Production is operating existing wells - lower risk, steady cash flow, which makes your "Revenue Projections" much more predictable.
 
 **Alex**: And the risk-return profiles are dramatically different. Exploration might give you a 10x return if you hit a major discovery, but you might also lose everything. Production investments might give you 15-20% annual returns with much more predictable cash flows.
 
@@ -66,9 +66,9 @@ Sam shares his exciting Texas oil opportunity while Alex breaks down the complex
 
 **Sam**: It's set up as a limited partnership. The general partner handles all operations and gets a 25% carried interest, while limited partners provide the capital and get 75% of the cash flow after they recover their initial investment.
 
-**Alex**: That's a pretty standard structure. For our listeners, a "carried interest" means the general partner doesn't put up capital but gets a percentage of profits in exchange for managing the operation. The "after payout" structure means investors get their money back first, then profits are split.
+**Alex**: That's a pretty standard structure, and this is exactly what you need to document in your "Legal Structure" section of the template. For our listeners, a "carried interest" means the general partner doesn't put up capital but gets a percentage of profits in exchange for managing the operation. The "after payout" structure means investors get their money back first, then profits are split. All of this goes into your "Ownership Structure" and "Recommended Entity Type" fields.
 
-**Sam**: Right, and this structure aligns incentives pretty well. The operator only makes money if the investors make money first. Plus, there are tax advantages - oil and gas investments qualify for depletion allowances and intangible drilling costs deductions.
+**Sam**: Right, and this structure aligns incentives pretty well, which is great for your "Implementation Plan" section. The operator only makes money if the investors make money first. Plus, there are tax advantages that you should mention in your "Tax Implications" field - oil and gas investments qualify for depletion allowances and intangible drilling costs deductions.
 
 **Alex**: The tax benefits can be significant, but don't let the tail wag the dog. A bad investment with good tax benefits is still a bad investment. Always evaluate the economics first, then consider taxes as a bonus.
 
@@ -106,17 +106,17 @@ Sam shares his exciting Texas oil opportunity while Alex breaks down the complex
 
 **Sam**: Plus, if you're going to invest in oil and gas during the energy transition, you want to make sure you're backing the most efficient, cleanest operators. They'll be the last ones standing.
 
-**Alex**: Now, for our Explorer listeners who might be evaluating oil and gas opportunities, what are the key metrics to focus on?
+**Alex**: Now, for our Explorer listeners who are filling out oil and gas opportunity templates, what are the key metrics that map to specific template fields?
 
-**Sam**: Start with the breakeven price per barrel. Then look at the decline curve - how fast does production drop over time? And always understand the infrastructure - how does the oil get to market?
+**Sam**: Start with the breakeven price per barrel - that's a critical number for your "Return Analysis" section. Then look at the decline curve - how fast does production drop over time? That affects your "Years 2-5 Projections" in the revenue section. And always understand the infrastructure - how does the oil get to market? That goes into your "Property Details" and affects your "Operating Expenses."
 
-**Alex**: From a financial perspective, focus on cash-on-cash returns and payback period. Oil and gas investments should pay back your initial investment within 3-5 years, then provide ongoing cash flow.
+**Alex**: From a financial perspective, focus on cash-on-cash returns and payback period for your "Return Analysis" section. Oil and gas investments should pay back your initial investment within 3-5 years, then provide ongoing cash flow. Make sure your "Break-even Analysis" field shows months to positive cash flow.
 
-**Sam**: And don't forget about reserves. Make sure you understand the difference between proven, probable, and possible reserves. Only proven reserves should factor into your investment decision.
+**Sam**: And don't forget about reserves for your "Property Details" section. Make sure you understand the difference between proven, probable, and possible reserves. Only proven reserves should factor into your "Revenue Projections" - that's a common template mistake.
 
-**Alex**: Here's a technical tip: always ask about the "EUR" - estimated ultimate recovery. This tells you how much oil or gas each well is expected to produce over its entire life.
+**Alex**: Here's a technical tip for the "Property Details" section: always ask about the "EUR" - estimated ultimate recovery. This tells you how much oil or gas each well is expected to produce over its entire life. That number is crucial for your revenue projections.
 
-**Sam**: And understand the difference between gross and net interests. If you own a 10% net revenue interest, you get 10% of the revenue after royalties and other deductions.
+**Sam**: And understand the difference between gross and net interests for your "Legal Structure" section. If you own a 10% net revenue interest, you get 10% of the revenue after royalties and other deductions. This affects how you fill out the "Ownership Structure" field.
 
 **Alex**: Let's wrap up with our Explorer's Toolkit. First, always visit the operation if possible. There's no substitute for seeing the assets firsthand.
 

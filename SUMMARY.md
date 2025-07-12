@@ -15,7 +15,6 @@
   * [Explorer Protocols](roles/explorers/protocols.md)
   * [Submission Process & Rewards](roles/explorers/submission-process.md)
   * [Community Voting Process](roles/explorers/opportunity-voting.md)
-  * [Real Estate Opportunity Template](roles/explorers/real-estate-opportunity-template.md)
   * [Monthly Requirements](roles/explorers/monthly-requirements.md)
 * [Auditors](roles/auditors.md)
   * [Auditor Protocols](roles/auditors/protocols.md)
@@ -54,6 +53,11 @@
 * [Explorer Education Program](training/explorer-education-program.md)
 * [Episode Transcripts](training/episode-transcripts/)
   * [Episode 1: Precious Metals Mining](training/episode-transcripts/episode-01-precious-metals-mining.md)
+  * [Episode 2: Oil & Gas Extraction](training/episode-transcripts/episode-02-oil-gas-extraction.md)
+* [Opportunity Templates](training/opportunity-templates/)
+  * [Mining Opportunity Template](training/opportunity-templates/mining-opportunity-template.md)
+  * [Oil & Gas Opportunity Template](training/opportunity-templates/oil-gas-opportunity-template.md)
+  * [Real Estate Opportunity Template](roles/explorers/real-estate-opportunity-template.md)
 
 ## Legal & Compliance
 * [Regulatory Framework](legal/regulatory-framework.md)
